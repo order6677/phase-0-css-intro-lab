@@ -5,12 +5,14 @@ body {
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
-  /* Your code here! */
+   background: yellow;
+   font-family: Arial, Helvetica, sans-serif;
+   padding:30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  /* Your code here! */
+  font-size:22px;
   color: red;
 }
 
